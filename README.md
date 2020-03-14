@@ -1,9 +1,6 @@
-# PDIT_learning_bot_v1
+# Microsoft Bot Framework: A minimalistic bot that asks two numbers from the user and adds them up and returns as a prompt.
 
-Learns
-
-This bot has been created using [Bot Framework](https://dev.botframework.com), it provides a minimal skeleton of a bot.
-
+This bot has been created using [Bot Framework](https://dev.botframework.com).
 
 ## Prerequisites
 
