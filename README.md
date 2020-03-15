@@ -1,4 +1,4 @@
-# Microsoft Bot Framework: A minimalistic bot that asks two numbers from the user and adds them up and returns as a prompt.
+# Microsoft Bot Framework: A minimalistic bot that presents an adaptive card to the user asking two numbers then adds them up and returns the sum as a reply!.
 
 This bot has been created using [Bot Framework](https://dev.botframework.com).
 
