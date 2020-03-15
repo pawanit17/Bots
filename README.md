@@ -25,7 +25,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com).
 - Start the bot
 
     ```bash
-    npm start
+    node app.js
     ```
 
 ## Testing the bot using Bot Framework Emulator
