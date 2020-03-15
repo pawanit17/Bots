@@ -2,6 +2,9 @@
 
 This bot has been created using [Bot Framework](https://dev.botframework.com).
 
+## How it looks
+![](Minimalistic%20Bot.png)
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org) version 10.14.1 or higher
